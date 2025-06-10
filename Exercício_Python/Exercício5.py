@@ -1,3 +1,3 @@
 idade = 20
-mensagem = "Sua idade é " + idade
-print(mensagem)
+mensagem = "Sua idade é"
+print(mensagem,idade)
