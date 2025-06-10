@@ -1,2 +1,4 @@
 def saudacao():
-print("Olá, mundo!")
+    print("Olá, mundo!")
+    
+saudacao()
